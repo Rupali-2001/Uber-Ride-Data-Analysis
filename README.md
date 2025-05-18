@@ -34,10 +34,9 @@ The Power BI dashboard includes the following:
 
 ## 📁 Files
 
--<a href="https://github.com/Rupali-2001/Uber-Ride-Data-Analysis/blob/main/Dashboard.jpg>Dashboard</a>
--<a href="https://github.com/Rupali-2001/Uber-Ride-Data-Analysis/blob/main/uber_dataset_dashboard.pbix>Power BI Dashboard File</a>
--<a href="https://github.com/Rupali-2001/Uber-Ride-Data-Analysis/blob/main/Uber_Dataset_Cleaned.xlsm>Uber_dataset</a> – Cleaned dataset with columns:  
-  `start_date`, `start_hour`, `start_minute`, `end_date`, `end_hour`, `end_minute`, `month`, `year`, `CATEGORY`, `START`, `STOP`, `MILES`, `PURPOSE`, `duration`, `speed`, `day`, `day_time`
+-<a href="https://github.com/Rupali-2001/Uber-Ride-Data-Analysis/blob/main/Dashboard.jpg">Dashboard</a>
+-<a href="https://github.com/Rupali-2001/Uber-Ride-Data-Analysis/blob/main/uber_dataset_dashboard.pbix">Power_bi_Dashboard File</a>
+-<a href="https://github.com/Rupali-2001/Uber-Ride-Data-Analysis/blob/main/Uber_Dataset_Cleaned.xlsm">Uber_dataset</a> 
 
 ## ⚙️ Tools Used
 
