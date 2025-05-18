@@ -62,7 +62,7 @@ The Power BI dashboard includes the following:
 ## 🚧 Challenges Faced
 
 - 🔄 **Data Cleaning:** The raw dataset required preprocessing—parsing date/time fields, handling missing values, and calculating derived metrics like duration and speed.
-- 🧠 **DAX Formulas:** Creating custom KPIs using DAX (e.g., Most Booked Day, Average Speed) involved trial and error with functions like `CALCULATE`, `RANKX`, and `FORMAT`.
+- 🧠 **DAX Formulas:** Creating custom KPIs using DAX (e.g., Total Trips, Average Speed, Average Duration) involved using functions like `SUM`, `AVERAGE`, and `COUNTROWS` to derive meaningful metrics.
 - 🎨 **Dashboard Layout:** Designing a visually appealing and user-friendly dashboard layout while maintaining clarity and responsiveness.
 - ⏱️ **Time Categorization:** Accurately segmenting rides into time-of-day categories (morning, afternoon, evening, night) based on start hour.
 - 📊 **Purpose Distribution:** Some categories had too few data points, making it challenging to display meaningful insights.
